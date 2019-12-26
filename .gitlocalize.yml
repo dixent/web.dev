@@ -1,8 +1,5 @@
-
 pretranslate:
   paths:
   - source: "src/site/content/en"
     include:
     - "accessible/*.*"
-
-      
